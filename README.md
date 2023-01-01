@@ -16,6 +16,7 @@ The purpose of this analysis is to give our client, Steve, a tool to analyze the
 ## Results
 
 The analysis of a dozen stocks from the years 2017 and 2018 involved finding the TDV (**Total Daily Volume**) and the **Return**. The TDV is simply a running sum of the volume for a given ticker. The return is found by diving the last close value by the starting close value for a given ticker and then subtracting 1. The results for each year can be seen below:
+
 	![Results_2017](resources/Results_2017.png)
 	![Results_2018](resources/Results_2018.png)
 
